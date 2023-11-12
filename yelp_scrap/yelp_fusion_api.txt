@@ -1,0 +1,159 @@
+>>>Apply Yelp API
+[Step1: Yelp Registration] https://www.yelp.com/login?return_url=https%3A%2F%2Fwww.yelp.com%2Fseeyousoon
+[Step2: API Application] https://www.yelp.com/developers/v3/manage_app
+
+>>>Paste your keys
+[Email] neminwu@gmail.com
+[App Name] US_Review_GeoFoundation_Model
+[Client ID] KRDv2HDQqCKnh2lRrXIHzg
+[API Key] ZsxFH1wr2C-cj6r4QY5-_EcRaQBMCSWm4gmrpx6SqmHAxfSEt_8QDKckHnJ1hSo4dWs3sLeqQ5RIdkPdhsmLSsob-WBvM5wU73rf1xxeO2lwqohNFE8511pzrSQcZXYx
+
+[Email] nw33659@uga.edu
+[App Name] GA_Review_Spatial_Analysis_Model
+[Client ID] dhQ5eqwvKrJkvtq0YJ5LUw
+[API Key] qpEH5L3hINmvzk5Ntxb4dwYAFXhN1rSSrLaIerFjOqwdjtSIW0tBcBM6oQuEFRi6XkF2Jap5fITHgmmsYZv1nn1I58mS-REtsq41tTpZ1SRbJ0cf0i5UowSBoAMeZXYx
+
+[Email] 544752725@qq.com
+[App Name] US_Review_GeoFoundation_Model
+[Client ID] g006-EFjMPk5YTfvhZfs7Q
+[API Key] 6Ktj02geuVROv9ozFgFF-WejSI8VdpR-0Kog57udNQRh2E8Lmw03_wrAvE8VIhc8tR7eLXHcZgy8Os5s0A7111vAEBzFvAvDk9gTyTbXP4t49j21kn34WHxp65osZXYx
+
+[Email]
+[App Name] US_Review_GeoFoundation_Model
+[Client ID] JSmtuZDnI3khzFeJcX9ozw
+[API Key] -s5nJ5OFW34UnOepz6nipsabVpKAD0MDBz7IQvfQI7LWxaPt3a-kvBD_46HvRZ8m4--wkEKddxjQ1H8u91e-Oxus4Oql88Ohky_tZNMAnH2Y7e_NHzUUe9rboWQsZXYx
+
+[Email] 2016301110026@whu.edu.cn
+[App Name]
+[Client ID]
+[API Key]
+
+[Email] nw33659@qq.com
+[App Name] US_Review_GeoFoundation_Model
+[Client ID] WnKPgc8UACzmUQpMNyKtVw
+[API Key] tdGYsD7BEUfF252rJjP-IUfdFBvaapjJ_nyUZ6sy0qqAr9foWTzfAEumRAZ2G_NwGUKeE29vp00WHSAjHVY8mm2chso-hS6OyFwrE7sphQF3rp2hR2etbWeA1j8xZXYx
+
+[Email] bingbing.guo1998@gmail.com
+[App Name]
+[Client ID]
+[API Key]
+
+[Email] nw33659@163.com
+[App Name] US_Review_GeoFoundation_Model
+[Client ID] _MgRQ3ls0d-NK2H-eKpGCQ
+[API Key] iVW9f2NEcBKgthQyR19g54c_9NSWA8quLXuUQlQlcudFoIwZp1W3iUI4OA34iVXvaHvhx5qhLQGzLMtXw1QVdNwokbj0ApfR-CwFay5LuonDTM-pQ8Z_5am-wDQwZXYx
+
+[Email]cao.c.qian.q@gmail.com
+[App Name]GeoModel
+[Client ID]s7iCidwfFUtFal1_MS29Gg
+[API Key]kqdxZsvFcLHiR4KQuSQ9t9AD5yOty6rYv2tSG6w2d33PGc0fr31qmSOXgjqHxDZij6x_8mU31EMQVV4LK55sC4HITxmnniKFXDQEmmt22PKgg2v1XfjCnoqdLp8wZXYx
+
+[Email]caoqianccqqqqqq@gmail.com
+[App Name]YelpGeoModel
+[Client ID]DjFsfJWkzRuDszuJWTsSXQ
+[API Key]DLkGKNqOw5u7G9BD2ucVrcUYRQXL53MqOqbDwLIEa8HbXvdI1l_LqPb1Ry_eJZehy9VBxNgDZD0XOUb9qd_ms7TRZ2FfyhVI1yGQ9XtJWX8SuSsTj-7Vj936z58wZXYx
+
+[Email] nw33659@outlook.com
+[App Name] US_Review_GeoFoundation_Model
+[Client ID] Zcq53Yr7OdqTCXaiv5Rw7Q
+[API Key] 1IcTQi9e8RGiH21Mcfj-vhtDHz-CRTLvxr5bJGaVkYxQfZXqFscrsUwEYt2JiBjH49zzvdFHZT76rrMp7DCMQlf9iH8tUzZKJSdToFGtMkLiBmTLwKjVa4UeFd0vZXYx
+
+[Email] li-shuolin@foxmail.com
+[App Name] GA_Review_Spatial_Analysis_Model
+[Client ID] m45kn48tJGC0Di6YRuQYpQ
+[API Key] MVgxlCDas9Seaf_7rOFMLgi2SJZFjYOvTF6ZA0isMyHmXr-tQkJJs1OSRJVTLYP6pBP6K9lwgVkzgSolezlzUsBrSyKVXdoyQW8sW6LIW2dyBwOrc33WLVlySi4wZXYx
+
+[Email] shuolin.li@etu.univ-amu.fr
+[App Name] GA_Review_Spatial_Analysis_Model
+[Client ID] xZcJ5CqdOfJFcLIpMVjzcA
+[API Key] JdqwqpBA35a2o0kPUzVlOavv8x7zDfJuQoRd6UnauRlgIyIkwVmk10iw8KoNDNYh9vd-Hxrgr_r5AWAO05yjVdfib8_V0ec_FdzWA0A_iRygZN4O-EZFx0iBji8wZXYx
+
+[Email] lishuolin321@gmail.com
+[App Name] GA_Review_Spatial_Analysis_Model
+[Client ID] LLtTmxyZlCHe4QzDYQhILQ
+[API Key] afmtJfU_kO8FSS8xq2uIqJKmu5DErH727lCapLKoJkZuoLYHJEScnsOZjNOomZFmBaSKtdw5BL_Zr8-XGfgKSQyrNUO386DYWikO08idQAapUQdRWIbgkac-5jAwZXYx
+
+[Email] shuolin.li@lis-lab.fr
+[App Name] GA_Review_Spatial_Analysis_Model
+[Client ID] OoVDD96OhDcH3nTdMWWQNA
+[API Key] yaFJDTJ-aDgQ3-r4sZz6GLVS4X9LxV6toRg53kjdDeZFyX9ytESUK8cf-kNmXrI0UoRzMq6ymNNS5XY7t-8BwOKJbsGOT1LBeB4GOpbzFqDDRhqRhOPc5bbIzzEwZXYx
+
+[Email] shuolin.li@univ-amu.fr
+[App Name] GA_Review_Spatial_Analysis_Model
+[Client ID] e2orqpZlw0k3n5kVA3Af9A
+[API Key] IoMO9z4WsVbBXk2NSpXcRUuX_KOQJmZ_sy9pkGBsArrNtLVcH6k_h7txdWeX4BRvZIII7Cc-cX8YFcwnXM7bQq4fLfXAjq32KJMtAg8dECcPL6HIeflavOh93jIwZXYx
+
+[Email] 847411114@qq.com
+[App Name] GA_Review_Spatial_Analysis_Model
+[Client ID] zQcvcrYwkjF9JNFPzHjRiA
+[API Key] rfQ1Haa-gMB0rslTt7r2d47c1AunWIJkdZgugW_dSpRamSlnIvjvpt021SCmjkN05MohIjbcVU1xghHVSJ_ENDjbacZaCK4YiM4zSQGl6ZtGQ2LlD29bIYvexDMwZXYx
+
+[Email] nw33659@foxmail.com
+[App Name]
+[Client ID]
+[API Key]
+
+[Email]
+[App Name]
+[Client ID]
+[API Key]
+
+[Email]
+[App Name]
+[Client ID]
+[API Key]
+
+[Email]
+[App Name]
+[Client ID]
+[API Key]
+
+[Email]
+[App Name]
+[Client ID]
+[API Key]
+
+[Email]
+[App Name]
+[Client ID]
+[API Key]
+
+[Email]
+[App Name]
+[Client ID]
+[API Key]
+
+[Email]
+[App Name]
+[Client ID]
+[API Key]
+
+[Email]
+[App Name]
+[Client ID]
+[API Key]
+
+[Email]
+[App Name]
+[Client ID]
+[API Key]
+
+[Email]
+[App Name]
+[Client ID]
+[API Key]
+
+[Email]
+[App Name]
+[Client ID]
+[API Key]
+
+[Email]
+[App Name]
+[Client ID]
+[API Key]
+
+[Email]
+[App Name]
+[Client ID]
+[API Key]
